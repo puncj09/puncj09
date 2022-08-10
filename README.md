@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jack
+- 👋 Hi, I’m Jack Puncochar
 - 👀 I’m interested in all things data science, but I have a passion for sports analytics
 - 🌱 Master of Science in Data Science from UW-Green Bay
 - 📫 How to reach me ---> https://www.linkedin.com/in/jack-puncochar/
